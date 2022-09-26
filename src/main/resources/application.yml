@@ -11,3 +11,9 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://localhost:9009/eureka
+
+
+#./gradlew bootRun --args='--server.port=9003'
+# ./gradlew -stop
+
+
